@@ -168,6 +168,34 @@ These datasets are from different authors but solve similar problems with slight
 
 ---
 
+## 🎮 28. Video Game Sales & Ratings  
+- 🔗 [Dataset](https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings)  
+- 🧰 Tools: SQL, EDA, Window Functions, CTEs  
+- 📌 Analyze top-selling games globally and regionally, track platform trends over years, evaluate critic/user ratings by genre and publisher, and rank best games per platform using window functions.
+
+---
+
+## 🛍️ 29. Walmart Sales Data Analysis  
+- 🔗 [Dataset](https://www.kaggle.com/datasets/mikhail1681/walmart-sales)  
+- 🧰 Tools: SQL, EDA, Time Series, Window Functions  
+- 📌 Analyze sales trends across stores and departments, calculate moving averages, identify holiday vs non-holiday impacts, evaluate top-performing stores, and compute month-over-month sales growth using window functions and CTEs.
+
+---
+
+## ⚽ 30. FIFA International Soccer Rankings Analysis  
+- 🔗 [Dataset](https://www.kaggle.com/datasets/tadhgfitzgerald/fifa-international-soccer-mens-ranking-1993now)  
+- 🧰 Tools: SQL, EDA, Time Series, Window Functions  
+- 📌 Analyze national team ranking trends over time, track rank changes using lag functions, identify consistently top-performing countries, evaluate continent-wise ranking distribution, and measure ranking volatility across decades using CTEs and advanced SQL analytics.
+
+---
+
+## 🎬 31. Movie Dataset Analysis  
+- 🔗 [Dataset](https://www.kaggle.com/datasets/utkarshx27/movies-dataset)  
+- 🧰 Tools: SQL, EDA, Aggregations, Window Functions  
+- 📌 Analyze movie performance based on revenue and budget, evaluate average ratings by genre and year, identify top directors and production companies, and compute profitability metrics using SQL queries and window functions for ranking and trend detection.
+
+---
+
 ## ✅ Final Notes
 
 - Use these datasets to build **portfolio projects** in GitHub with structured READMEs.
