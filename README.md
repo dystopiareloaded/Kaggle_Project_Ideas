@@ -125,7 +125,9 @@ These datasets are from different authors but solve similar problems with slight
 ---
 
 ## 🚗 22. Uber Rides (User-Based Data)  
-- 🔗 [Dataset](https://www.kaggle.com/datasets/zusmani/uberdrives)  
+- 🔗 [Dataset](https://www.kaggle.com/datasets/bhanupratapbiswas/uber-data-analysis)
+- 🔗 [Dataset](https://www.kaggle.com/datasets/zusmani/uberdrives)
+- - 🔗 [Dataset](https://www.kaggle.com/datasets/yasserh/uber-fares-dataset)
 - 🧰 Tools: SQL, Python EDA, GeoPlotting  
 - 📌 Analyze trip purpose, route patterns, and distance vs. time analysis.
 
