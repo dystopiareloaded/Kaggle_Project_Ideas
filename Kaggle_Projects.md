@@ -1,4 +1,4 @@
-# 🧠 35 Data Projects for Practicing Cleaning, SQL, Pandas & Visualization
+# 🧠 50 Data Projects for Practicing Cleaning, SQL, Pandas & Visualization
 
 This is a curated list of beginner to intermediate data project ideas using **Kaggle datasets**. These help you master:
 - 🧹 Data Cleaning
@@ -260,6 +260,113 @@ This is a curated list of beginner to intermediate data project ideas using **Ka
 ### 35. **Hospital Charges (US)**
 - 🔗 [Hospital Cost Data](https://www.kaggle.com/datasets/cms/medicare-provider-charge-data)  
 - 🎯 Analyze state-level cost differences, procedure comparison.  
+- 🔧 Focus: 🧹, 🐼, 📊
+
+---
+
+## 📁 Additional Dataset Projects (36–50)
+
+### 36. **Spotify Daily Charts**
+- 🔗 [Spotify Daily Charts](https://www.kaggle.com/datasets/edumucelli/spotify-daily-charts)  
+- 🎯 Track daily chart rankings, clean region/language info, and analyze artist popularity over time.  
+- 🔧 Focus: 🧹, 🐼, 📊
+
+---
+
+### 37. **TechCrunch Article Data**
+- 🔗 [TechCrunch Articles](https://www.kaggle.com/datasets/PromptCloudHQ/techcrunch-articles)  
+- 🎯 Clean article text fields, analyze post frequency and categories.  
+- 🔧 Focus: 🧹, 🐼, 📊
+
+---
+
+### 38. **Google App Store Dataset**
+- 🔗 [Google Play Store Apps](https://www.kaggle.com/datasets/lava18/google-play-store-apps)  
+- 🎯 Analyze app ratings, pricing, genres, clean version and size columns.  
+- 🔧 Focus: 🧹, 🐼, 📊
+
+---
+
+### 39. **International Debt Dataset**
+- 🔗 [IMF Global Debt](https://www.kaggle.com/datasets/theworldbank/international-debt)  
+- 🎯 Visualize public debt by country and year, clean economic indicators.  
+- 🔧 Focus: 🧹, 🐼, 🧾, 📊
+
+---
+
+### 40. **Agricultural Production in India**
+- 🔗 [India Crop Production](https://www.kaggle.com/datasets/ruslankl/india-agriculture)  
+- 🎯 Analyze crop yields, clean missing rainfall/area values, state-wise trends.  
+- 🔧 Focus: 🧹, 🐼, 📊
+
+---
+
+### 41. **Amazon Product Reviews**
+- 🔗 [Amazon Reviews](https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products)  
+- 🎯 Analyze review sentiment, clean review text, and product categories.  
+- 🔧 Focus: 🧹, 🐼, 📊
+
+---
+
+### 42. **Google Play Store Reviews (UK)**
+- 🔗 [Google Play Reviews UK](https://www.kaggle.com/datasets/gauthamkrishnanashok/googleplaystore-user-reviews)  
+- 🎯 Sentiment analysis by app category, handle nulls in review text.  
+- 🔧 Focus: 🧹, 🐼, 📊
+
+---
+
+### 43. **World Power Consumption**
+- 🔗 [Global Power Consumption](https://www.kaggle.com/datasets/iamsouravbanerjee/world-power-consumption)  
+- 🎯 Compare per capita power usage, clean NaNs in regional data.  
+- 🔧 Focus: 🧹, 🐼, 📊
+
+---
+
+### 44. **Football Data Europe**
+- 🔗 [European Soccer Database](https://www.kaggle.com/datasets/hugomathien/soccer)  
+- 🎯 Match analytics, team statistics, clean match date formats.  
+- 🔧 Focus: 🧹, 🐼, 🧾, 📊
+
+---
+
+### 45. **eBay Car Sales Dataset**
+- 🔗 [Used Car Data - Germany](https://www.kaggle.com/datasets/orgesleka/used-cars-database)  
+- 🎯 Analyze pricing, clean irrelevant or outlier car listings.  
+- 🔧 Focus: 🧹, 🐼, 📊
+
+---
+
+### 46. **UN Global Gender Gap Index**
+- 🔗 [Gender Gap Data](https://www.kaggle.com/datasets/unitednations/global-gender-gap-index)  
+- 🎯 Compare educational, economic, and political gaps by country over years.  
+- 🔧 Focus: 🧹, 🐼, 📊, 🧾
+
+---
+
+### 47. **Amazon Top 50 Bestsellers**
+- 🔗 [Amazon Bestsellers](https://www.kaggle.com/datasets/meisamghasemi/amazon-top-50-bestselling-books-2009-2022)  
+- 🎯 Analyze top-selling books, clean categories, visualize sales trends.  
+- 🔧 Focus: 🧹, 🐼, 📊
+
+---
+
+### 48. **IMDb - Hindi Movies Dataset**
+- 🔗 [IMDb Hindi Movies](https://www.kaggle.com/datasets/thedevastator/unofficial-imdb-hindi-movies-dataset)  
+- 🎯 Analyze ratings, clean genre/year data, compare trends to global sets.  
+- 🔧 Focus: 🧹, 🐼, 📊
+
+---
+
+### 49. **Netflix Titles Recommendation**
+- 🔗 [Netflix Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)  
+- 🎯 Enhance filtering and recommendation via content-based grouping.  
+- 🔧 Focus: 🧹, 📊, 🧾
+
+---
+
+### 50. **US Baby Names (1880–2021)**
+- 🔗 [US Baby Names](https://www.kaggle.com/datasets/kaggle/us-baby-names)  
+- 🎯 Trend analysis by gender and decades, clean duplicate name entries.  
 - 🔧 Focus: 🧹, 🐼, 📊
 
 ---
